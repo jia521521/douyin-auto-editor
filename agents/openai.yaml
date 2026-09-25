@@ -1,0 +1,8 @@
+interface:
+  display_name: "自媒体爆款剪辑台"
+  short_description: "整理每日素材并生成抖音竖屏短视频剪辑方案、成片与发布物料"
+  brand_color: "#FF4D67"
+  default_prompt: "使用 $douyin-auto-editor 处理我今天上传的素材，先给出剪辑策略，再输出成片和发布文案。"
+policy:
+  allow_implicit_invocation: true
+

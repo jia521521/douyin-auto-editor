@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Workbench projects may contain private or very large media.
+creator-projects/
+projects/
+source/
+output/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+
